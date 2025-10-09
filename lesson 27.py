@@ -1,1 +1,2 @@
-# github
+﻿# github
+print("hello")
