@@ -209,3 +209,4 @@ def safe_sqrt():
 
 
 safe_sqrt()
+print("hello")
